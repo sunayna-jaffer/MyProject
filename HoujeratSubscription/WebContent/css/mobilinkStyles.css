@@ -1,0 +1,46 @@
+A { color: black;
+font-family: verdana,arial,sans-serif;
+font-weight: bold;
+font-size: 10pt;
+text-decoration: none; }
+A:hover { color: blue;
+font-size: 10pt;
+font-weight: bold;
+text-decoration: none; }
+A.sublinks { color: #FF6600;
+font-family: verdana,arial,sans-serif;
+font-weight: bold;
+font-size: 10pt;
+text-decoration: underline; }
+A.sublinks:hover { color: blue;
+font-size: 10pt;
+font-weight: bold;
+text-decoration: underline; }
+A:hover { color: blue;
+font-size: 10pt;
+font-weight: bold;
+text-decoration: none; }
+TR.H1 { background: #FF6600;
+color:#FFDD66;
+font-family: Times New Roman,arial,sans-serif;
+font-weight: bold;
+font-size: 13pt;
+text-decoration: none; }
+TR.H2 { background: #FF9933;
+color:"#0000FF";
+font-family: Times New Roman,arial,sans-serif;
+font-weight: bold;
+font-size: 12pt;
+text-decoration: none; }
+TR.content { background: #FFDD66;
+color:"#0000FF";
+font-family: Times New Roman,arial,sans-serif;
+font-weight: normal;
+font-size: 11pt;
+text-decoration: none; }
+TR.Sub { background: #FFDD66;
+color:"#0000FF";
+font-family: Times New Roman,arial,sans-serif;
+font-weight: normal;
+font-size: 11pt;
+text-decoration: none; }
