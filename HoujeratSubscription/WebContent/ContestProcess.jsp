@@ -6,7 +6,7 @@
            java.io.*, 
            java.text.*"%>
 
-<%!			// ******************** Tounicode function********************** // 
+<%!	// ******************** To unicode function ********************** // 
 
 	public String tounicode(String message){
 		String unicodeContent = "";
