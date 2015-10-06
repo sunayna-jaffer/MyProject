@@ -51,7 +51,6 @@ if(ContestId!=null)
 			<option value="0" <% if(gp==0) { %> selected <% } %>>ALL</option>
 			<option value="1" <% if(gp==1) { %> selected <% } %>>SMS Content</option>
 			<option value="12" <% if(gp==2) { %> selected <% } %>>MMS Content</option>
-			<option value="13" <% if(gp==3) { %> selected <% } %>>MMS Content</option>
 		</select></td>
 		<%
   if( loginname.equals("baher")){
